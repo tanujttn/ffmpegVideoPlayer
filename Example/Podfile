@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ffmpegVideoPlayer_Tests' do
+  pod 'ffmpegVideoPlayer', :path => '../'
+  
+  
+end
