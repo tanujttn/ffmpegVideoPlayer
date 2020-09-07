@@ -1,0 +1,6 @@
+framework module ffmpegVideoPlayer {
+  umbrella header "ffmpegVideoPlayer-umbrella.h"
+
+  export *
+  module * { export * }
+}

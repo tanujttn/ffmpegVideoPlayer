@@ -1,0 +1,16 @@
+PODS:
+  - ffmpegVideoPlayer (0.1.0)
+
+DEPENDENCIES:
+  - ffmpegVideoPlayer (from `../`)
+
+EXTERNAL SOURCES:
+  ffmpegVideoPlayer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ffmpegVideoPlayer: 72277d230e76bafd3a71f2076b7480fe92c4435c
+
+PODFILE CHECKSUM: 21884c39fc9ff8e4f5713b1eacf4fe2f503aff5e
+
+COCOAPODS: 1.10.0.beta.2
